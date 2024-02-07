@@ -1,0 +1,19 @@
+{
+  "name": "cypress_solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "prettier": "^3.1.1",
+    "sat-utils": "^1.13.0"
+  }
+}
